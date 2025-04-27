@@ -1,6 +1,6 @@
 
  # Pull the Docker image from Docker Hub
  echo "Pulling docker image"
- sudo docker pull "faizan0007/simple-python-flask-app:27-04-2025_13-53-32"
- sudo docker run -d -p 5000:5000 "faizan0007/simple-python-flask-app:27-04-2025_13-53-32"
+ sudo docker pull "faizan0007/simple-python-flask-app:27-04-2025_13-54-38"
+ sudo docker run -d -p 5000:5000 "faizan0007/simple-python-flask-app:27-04-2025_13-54-38"
  # Run the Docker image as a container
